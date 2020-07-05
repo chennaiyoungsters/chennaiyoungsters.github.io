@@ -1,0 +1,114 @@
+body {
+  background-color:#f4f4f4 ;
+}
+
+h1{
+  text-align: center;
+}
+
+.navbar-brand {
+  padding-right: 820px;
+}
+
+.row-favicon{
+  text-align: left;
+}
+
+.jumbotron {
+  padding: 8rem 2rem;
+  padding-top: 0px;
+  margin-bottom: 0px;
+}
+
+.CYlogo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 0px;
+  margin-top: 100px;
+}
+
+.side{
+  padding-left:117px;
+
+}
+
+.if{
+  margin-left: 80px;
+}
+
+.ji{
+  font-size: 45px;
+}
+
+.ga{
+  width: 288px;
+
+}
+.har {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+.ya{
+  font-weight:450;
+}
+
+.margin{
+  margin-left: 100px
+}
+.image{
+  border-radius: 50%;
+}
+.favicon{
+  text-align: center;
+}
+
+.ri{
+  color: white;
+}
+
+.ri a:hover{
+  color: #fe8a71;
+}
+.main{
+  text-align: center;
+  font-family: 'Yellowtail', cursive;
+}
+
+.tq h1{
+  font-size: 50px;
+  padding-left:30px;
+  font-family: 'Nunito', sans-serif;
+}
+
+.main-sentence{
+  font-family: 'Noto Sans', sans-serif;
+}
+
+.tq p{
+  font-size: 32px;
+  font-family: 'Nunito', sans-serif;
+}
+
+.soc{
+    width: 100%; /* Set a specific width */
+    background-color: #555;
+    overflow: auto; /* Dark-grey background */
+}
+.soc a {
+
+  float: right; /* Float links side by side */
+  text-align: center; /* Center-align text */
+  width: 25%; /* Equal width (5 icons with 20% width each = 100%) */
+  padding: 100px 0; /* Some top and bottom padding */
+  transition: all 0.3s ease; /* Add transition for hover effects */
+  color: white; /* White text color */
+  font-size: 36px; /* Increased font size */
+}
+
+.soc a:hover {
+  background-color: #000; /* Add a hover color */
+}
